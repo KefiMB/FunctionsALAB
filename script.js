@@ -48,3 +48,4 @@ function StrLongerThanNum(strNum){
 }
 const longStr = StrLongerThanNum(strNum);
 console.log(longStr);
+
